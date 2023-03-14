@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="title">CALCULATEUR IMC</string>
+    <string name="weight_label">votre poids en kg</string>
+    <string name="height_label">votre taille en cm</string>
+    <string name="button_calculate">Calculer</string>
+    <string name="your_score">Ton score</string>
+    <string name="reset">Nettoyer</string>
+    <string name="share">Partager</string>
+    <string name="ideal_state">Toutes nos félicitations! Votre poids est idéal</string>
+    <string name="underweight">Sous poids</string>
+    <string name="normal_weight">Poids normal</string>
+    <string name="over_weight">Obésité I - Surpoids</string>
+    <string name="obesity">Obésité II</string>
+    <string name="morbid_obesity">Obésité III</string>
+</resources>
